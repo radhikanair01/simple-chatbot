@@ -1,0 +1,45 @@
+Python is a high-level, general-purpose programming language used for web development, automation, data analysis, machine learning, and artificial intelligence. It is popular because its syntax is simple to read and write, while still being powerful enough for large applications.
+
+RAG stands for Retrieval Augmented Generation. It combines a language model with information retrieved from a knowledge base to produce more accurate and grounded answers.
+
+Machine Learning is a subset of Artificial Intelligence that enables systems to learn patterns from data and make predictions or decisions without being explicitly programmed.
+
+Embeddings convert text into vectors so machines can measure similarity between words, sentences, and documents.
+
+ChromaDB is a vector database used in RAG applications to store embeddings and retrieve relevant context efficiently.
+
+Deep learning is a subset of machine learning that uses neural networks with many layers to solve complex tasks such as image recognition and language processing.
+
+Streamlit is a Python library for creating interactive web apps and dashboards quickly. It is commonly used for data science and machine learning projects because you can build a user interface with plain Python code instead of writing HTML, CSS, or JavaScript.
+
+A chatbot is a software application that can talk with users through text or voice and give helpful responses. It can answer questions, guide users, and assist with tasks based on the information it has been given.
+
+A knowledge base is a stored collection of information that a system can retrieve to answer questions accurately. It acts like a reference library for a chatbot or assistant.
+
+A large language model is an AI model trained on a very large amount of text so it can understand and generate human-like language. It can answer questions, summarize content, and write text in a natural way.
+
+Vector search is a technique that finds the most relevant pieces of information by comparing numerical representations of text. It is commonly used in retrieval systems and semantic search.
+
+Natural language processing is a field of AI focused on teaching computers to understand and generate human language.
+
+A retrieval system helps a chatbot find the most relevant information before generating an answer.
+
+A transformer is a neural network architecture widely used in modern language models because it handles context very effectively.
+
+Fine-tuning is the process of adapting a pre-trained model to a specific task or dataset.
+
+Prompt engineering is the practice of crafting inputs carefully so a language model gives better responses.
+
+A vector database stores embeddings and allows fast similarity search over many documents.
+
+Tokenization is the process of splitting text into smaller units that a model can process.
+
+Context windows refer to the amount of text a model can consider at once when generating an answer.
+
+An API is an interface that allows software applications to communicate and share data with each other. It lets one program request information or actions from another program.
+
+An embedding model transforms text into numerical vectors that capture semantic meaning. These vectors help systems compare and retrieve related content.
+
+A semantic search system returns results based on meaning rather than simple keyword matching.
+
+
